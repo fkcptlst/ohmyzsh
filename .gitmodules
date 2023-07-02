@@ -1,6 +1,6 @@
 [submodule "custom/plugins/zsh-autosuggestions"]
 	path = custom/plugins/zsh-autosuggestions
-	url = https://github.com/zsh-users/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions.git
 [submodule "custom/plugins/zsh-proxy"]
 	path = custom/plugins/zsh-proxy
 	url = https://github.com/sukkaw/zsh-proxy.git
